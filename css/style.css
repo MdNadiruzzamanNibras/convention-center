@@ -5,3 +5,9 @@
 body{font-family: 'Poppins', sans-serif;}
 /* header */
 .carousel-item img{height: 700px;}
+/* main  */
+.padding{padding-top: 100px;}
+.raddius{border-radius: 20px;}
+.font-height{font-size: 80px;}
+/* footer  */
+footer{height: 250px;}
