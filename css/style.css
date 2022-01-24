@@ -8,6 +8,8 @@ body{font-family: 'Poppins', sans-serif;}
 /* main  */
 .padding{padding-top: 100px;}
 .raddius{border-radius: 20px;}
+.card-btn{background: rgb(248, 221, 238);
+}
 .font-height{font-size: 80px;}
 /* footer  */
 footer{height: 250px;}
