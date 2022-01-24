@@ -3,3 +3,5 @@
 
 /* common style */
 body{font-family: 'Poppins', sans-serif;}
+/* header */
+.carousel-item img{height: 600px;}
